@@ -1,5 +1,4 @@
 /*
-* Author: Giovanni Lomeil <glomelim@ucsc.edu>
 * Author: Aakaash Narayannan <anaraya4@ucsc.edu>
 * License: Public Domain
 */
